@@ -1,0 +1,8 @@
+canvas {
+	border: 4px dashed #ff0000;
+}
+
+canvas {
+	width: 90vw;
+	height: 90vh;
+}
